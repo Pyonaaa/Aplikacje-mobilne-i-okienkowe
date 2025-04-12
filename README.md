@@ -21,7 +21,7 @@ An application for managing employees, their data, and assigning them to differe
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourRepo/employee-management-project.git
+    git clone https://github.com/Pyonaaa/employee-management-project.git
     ```
 
 2. Build the project using Maven:
